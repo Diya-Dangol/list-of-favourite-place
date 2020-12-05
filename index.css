@@ -1,0 +1,12 @@
+body{
+    background: green;
+}
+
+#fav_place {
+    margin: 20px;
+}
+
+#fav_place div{
+    border: 1px solid black;
+    text-align: center;
+}
